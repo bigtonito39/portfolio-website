@@ -395,6 +395,7 @@ footer>p {
     display: flex;
     box-sizing: border-box;
     align-items: stretch;
+    flex-wrap: wrap;
 }
 
 .row>* {
